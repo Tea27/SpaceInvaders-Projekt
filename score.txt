@@ -1,0 +1,8 @@
+abc    600
+jaa    560
+tab    400
+yyy    200
+abc    100
+asd    80
+jaa    80
+asd    40
